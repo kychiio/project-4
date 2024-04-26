@@ -1,0 +1,69 @@
+template: "the cloud reading for your day _____________, ______________ (advice)"
+
+20%
+
+"is light & clear" , ...
+- 0: you will be more lucky than yesterday
+- 1: trying something new will result in good things
+- 2: a rare opportunity will open for you today
+- 3: a problem you've been struggling with will be lighter today
+- 4: your previous effort and hard work will pay off 
+
+40%
+
+"is a little cloudy", ...
+
+- 0: reconnect with your goals in mind for the day
+- 1: people will listen to you if you want to open up
+- 2: taking a new route today could lead to something unexpected
+- 3: don't be afraid to ask for help today
+- 4: a break on what you're working on will help you greatly
+
+
+60%
+
+"is very cloudy", ...
+
+be mindful of your time spent today
+someone near you would appreciate your help 
+some things you may want to do today will be better left undone
+however your issues may resolve themselves if you stay calm
+prepare to adapt to some major changes that may come your way
+
+
+80%
+
+"has a chance of rain", ...
+
+you may want to reconsider the people you're friends with
+make sure to take care of your health before there are consequences
+pay attention to the words you choose to speak to others
+be careful of your schedule for today and how you organize your time
+
+100% 
+
+"overcast and stormy", ...
+
+take caution in choosing your path today
+be aware of the moods of the people around you
+prepare for conflict with someone close to you
+it would be wise to check if you've forgotten anything important
+many of your minor problems may snowball into a larger issue
+
+
+"which city would you like to recieve a cloud reading from?"
+[ they type in box ]
+
+each picture has an if statement with their specific text
+
+to do:
+- prompt for the typing box
+
+- set up if statements and fortunes
+
+- check formatting to see if box gets bigger with more text
+
+- check instructions again
+
+- write glitch portfolio and turn in
+
