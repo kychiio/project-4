@@ -1,8 +1,8 @@
-const api_key= "60cd4256173950775ad26d4bb0272849";
+const api_key= "PLACEHOLDER API";
 const apiUrlBase = "https://api.openweathermap.org/data/2.5/weather?q=";
 
 // REPLACE API KEY AS PLACEHOLDER + add directions
-
+// 60cd4256173950775ad26d4bb0272849
 
 
 
